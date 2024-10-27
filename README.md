@@ -6,9 +6,10 @@ This project focuses on analyzing the most streamed and trending songs on Spotif
 ## Problem Statement
 
 Spotify, as a leading music streaming platform, hosts millions of songs and thousands of artists, making it challenging to identify top trends and understand listener preferences. Without a structured approach to monitor popular tracks and streaming trends, it is difficult for artists, producers, and marketers to make data-driven decisions. I addressed these challenges by developing an automated dashboard that provides real-time insights into trending songs, popular artists, and key song characteristics for 2023.
+
 ## Data Source
 
-This analysis utilizes data from the [Most Streamed Spotify Songs 2023]("https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023?resource=download") on Kaggle, which offers a comprehensive list of the most popular songs of the year. The dataset includes detailed information on **track names, artists, streaming counts, and playlists, along with essential song characteristics such as danceability, energy, and valence.** It goes beyond typical datasets by providing insights into each song's popularity and presence on various music platforms, including streaming statistics, release dates, and their performance on Apple Music, Deezer, and Shazam charts. This wealth of information enables a nuanced analysis of trends and characteristics in popular music throughout 2023.
+This analysis utilizes data from the [Most Streamed Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023?resource=download) on Kaggle, which offers a comprehensive list of the most popular songs of the year. The dataset includes detailed information on **track names, artists, streaming counts, and playlists, along with essential song characteristics such as danceability, energy, and valence.** It goes beyond typical datasets by providing insights into each song's popularity and presence on various music platforms, including streaming statistics, release dates, and their performance on Apple Music, Deezer, and Shazam charts. This wealth of information enables a nuanced analysis of trends and characteristics in popular music throughout 2023.
 ## Steps Followed
 
 #### Understanding the Problem:
